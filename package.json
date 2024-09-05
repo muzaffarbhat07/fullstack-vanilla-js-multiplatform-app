@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-vanilla-js-multiplatform-app",
+  "version": "1.0.0",
+  "description": "Fullstack Vanilla Javascript multi-platform application that runs in browser and desktop",
+  "main": "ui/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node ui/index.js"
+  },
+  "author": "Muzaffar Bhat",
+  "license": "ISC"
+}
